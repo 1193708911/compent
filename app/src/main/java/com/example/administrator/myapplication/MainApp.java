@@ -9,7 +9,6 @@ import com.example.mylibrary.base.BaseApp;
  */
 
 public class MainApp extends BaseApp {
-
     @Override
     public void onCreate() {
         super.onCreate();
