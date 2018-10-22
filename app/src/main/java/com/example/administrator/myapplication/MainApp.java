@@ -18,6 +18,7 @@ public class MainApp extends BaseApp {
             ARouter.openDebug();
             ARouter.openLog();
         }
+
         ARouter.init(this);
     }
 }
